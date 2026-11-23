@@ -1,6 +1,6 @@
 cask "cursorgrid" do
-  version "0.1.1"
-  sha256 "ed3d8490d578b19d50bee09f1dde5d4dd4316da08d5e9ac736fd9adc82371b4b"
+  version "0.1.2"
+  sha256 "ff77f8b632da12a9ec64dea44b54dd1cb772c160e20dc52c92303380a941ab6e"
 
   url "https://github.com/cursorgrid/homebrew-tap/releases/download/v#{version}/CursorGrid.dmg"
   name "CursorGrid"
